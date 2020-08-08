@@ -1,6 +1,6 @@
 <h2 align="center">Hello there! I'm Vishwajith Weerasinghe. 👋🤓</h2>
 <p align="justify">I'm a Full Stack Software Engineer, Web Designer, Game Developer, OS Dev Contributer from Sri Lanka.
-I'm also currently doing my Bsc in Computer Science at <a href="https://www.sjp.ac.lk/">💜University of Sri Jayewardenepura💜</a> while working on <a href="https://echonlabs.com">🧡EchonLabs (Pvt) Ltd🧡</a>.
+I'm also currently doing my Bsc in Computer Science at <a href="https://www.sjp.ac.lk/">💜University of Sri Jayewardenepura💜</a> while working at <a href="https://echonlabs.com">🧡EchonLabs (Pvt) Ltd🧡</a>.
 I currently passionate about OS Developing, Artificial Intelligence, RESTful API and Home Automation.😎
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching movies, daydreaming actionpacked self made dreams or on my laptop gaming.😋</p>
 
@@ -11,7 +11,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 **vishdrck/vishdrck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👨🏽‍💻 I’m currently an SE intern with [EchonLabs](https://echonlabs.com/) working on ERP/CRM/Web systems
+- 👨🏽‍💻 I’m currently an SE intern at [EchonLabs](https://echonlabs.com/) working on ERP/CRM/Web systems
 - 🌱 I’m currently self-studying Artificial Inteligence
 - 🤔 Looking for new Home Automationable OS idea and working on it.
 - 💼 I’m pursuing a Bachelor's degree in Computer Science

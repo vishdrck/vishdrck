@@ -6,11 +6,19 @@ When I'm not developing and building things, you can find me on Youtube learning
 
   <img align="right" alt="profile-pic" width="35%" src="https://github.com/vishdrck/vishdrck/blob/master/IMG-20180513-WA0001.jpg" />
 
-**Talking about Personal Stuffs:**
 <!--
 **vishdrck/vishdrck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+**Technical Skills**
 
+- Languages: C,C++,Java,Javascript,Typescript,C#,Html,PHP,CSS,Assembly,Python,VB6.0,VB.net,NASM
+- DBMS - MySQL, MongoDB
+- Web Servers - Nginx, Apache (DevOps)
+- IDEs - Visual Studio Code, Visual Studio, NetBeans, Codeblocks, Eclipse, Intellij
+- Platforms - Microsoft Windows XP,7,8,8.1,10, Ubuntu, Kali linux
+- Mathematical Tool - Matlab, Maple
+
+**Other**
 - 👨🏽‍💻 I’m currently an SE intern at [EchonLabs](https://echonlabs.com/) working on ERP/CRM/Web systems
 - 🌱 I’m currently self-studying Artificial Inteligence
 - 🤔 Looking for new Home Automationable OS idea and working on it.

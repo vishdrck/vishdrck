@@ -19,7 +19,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 - Mathematical Tool - Matlab, Maple
 
 **Other**
-- 👨🏽‍💻 I’m currently an SE intern at [EchonLabs](https://echonlabs.com/) working on ERP/CRM/Web systems
+- 👨🏽‍💻 I'm running own startup [DevX Technologies](https://devxtechnologies.com.com/) working on ERP/CRM/Web systems
 - 🌱 I’m currently self-studying Artificial Inteligence
 - 🤔 Looking for new Home Automationable OS idea and working on it.
 - 💼 I’m pursuing a Bachelor's degree in Computer Science

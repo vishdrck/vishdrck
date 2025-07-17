@@ -1,6 +1,6 @@
 <h2 align="center">Hello there! I'm Vishwajith Weerasinghe. 👋🤓</h2>
 <p align="justify">I'm a Full Stack Software Engineer, Web Designer, Game Developer, OS Dev Contributer from Sri Lanka.
-I'm also currently doing my Bsc in Computer Science at <a href="https://www.sjp.ac.lk/">💜University of Sri Jayewardenepura💜</a> while working at <a href="https://echonlabs.com">🧡EchonLabs (Pvt) Ltd🧡</a>.
+I'm also currently doing my Bsc in Computer Science at <a href="https://www.sjp.ac.lk/">💜University of Sri Jayewardenepura💜</a> while working at <a href="https://www.devxtechnologies.com">🧡DevX Technologies (Pvt) Ltd🧡</a>.
 I currently passionate about OS Developing, Artificial Intelligence, RESTful API and Home Automation.😎
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching movies, daydreaming actionpacked self made dreams or on my laptop gaming.😋</p>
 
